@@ -1,0 +1,39 @@
+CREATE TABLE `akun_nilai` (
+  `id` int(11) NOT NULL,
+  `akun` int(11) NOT NULL,
+  `semester` int(1) NOT NULL,
+  `rata_semester` decimal(10,0) NOT NULL,
+  `matematika_p` decimal(10,0) NOT NULL,
+  `matematika_k` decimal(10,0) NOT NULL,
+  `biologi_p` decimal(10,0) NOT NULL,
+  `biologi_k` decimal(10,0) NOT NULL,
+  `fisika_p` decimal(10,0) NOT NULL,
+  `fisika_k` decimal(10,0) NOT NULL,
+  `kimia_p` decimal(10,0) NOT NULL,
+  `kimia_k` decimal(10,0) NOT NULL,
+  `inggris_p` decimal(10,0) NOT NULL,
+  `inggris_k` decimal(10,0) NOT NULL,
+  `indonesia_p` decimal(10,0) NOT NULL,
+  `indonesia_k` decimal(10,0) NOT NULL,
+  `keahlian_p` decimal(10,0) NOT NULL,
+  `keahlian_k` decimal(10,0) NOT NULL,
+  `ekonomi_p` decimal(10,0) NOT NULL,
+  `ekonomi_k` decimal(10,0) NOT NULL,
+  `geografi_p` decimal(10,0) NOT NULL,
+  `geografi_k` decimal(10,0) NOT NULL,
+  `b_asing_p` decimal(10,0) NOT NULL,
+  `b_asing_k` decimal(10,0) NOT NULL,
+  `file` varchar(256) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+ALTER TABLE `akun_nilai`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `file` (`file`),
+  ADD KEY `akun_nilai-akun` (`akun`);
+
+
+ALTER TABLE `akun_nilai`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+
+ALTER TABLE `akun_nilai`
+  ADD CONSTRAINT `akun_nilai-akun` FOREIGN KEY (`akun`) REFERENCES `akun` (`id`);
