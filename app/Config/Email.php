@@ -49,7 +49,7 @@ class Email extends BaseConfig
      * @var string
      */
     #public $SMTPHost;
-    public $SMTPHost = 'mail2.idu.ac.id';
+    public $SMTPHost = 'smtp.gmail.com';
 
     /**
      * SMTP Username
@@ -57,7 +57,7 @@ class Email extends BaseConfig
      * @var string
      */
     #public $SMTPUser;
-    public $SMTPUser = 'pmb.noreplay@tik.idu.ac.id';
+    public $SMTPUser = 'fp.pbkk.a@gmail.com';
 
     /**
      * SMTP Password
@@ -65,7 +65,7 @@ class Email extends BaseConfig
      * @var string
      */
     #public $SMTPPass;
-    public $SMTPPass = 'P1H?+@C=EZQk$kp8';
+    public $SMTPPass = 'efndyijcopmpclps';
 
     /**
      * SMTP Port

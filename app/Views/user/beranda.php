@@ -23,7 +23,7 @@
 					<li>Sekolah asal dan nilai</li>
 					<li>Dokumen administrasi</li>
 				</ol>
-				<p>Jika mengalami kendala saat melakukan pendaftaran silahkan hubungi Panitia PMB Unhan RI atau email <span class="badge bg-info text-wrap">support.pmb@tik.idu.ac.id</span></p>
+				<p>Jika mengalami kendala saat melakukan pendaftaran silahkan hubungi Panitia PMB ITS atau email <span class="badge bg-info text-wrap">support.pmb@tik.idu.ac.id</span></p>
 			<?php else : ?>
 				<?php if (session()->getFlashdata('message')) {
 					echo session()->getFlashdata('message');

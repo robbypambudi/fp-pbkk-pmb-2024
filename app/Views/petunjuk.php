@@ -26,7 +26,7 @@
 			</ol>
 		</li>
 		<li>Calon mahasiswa wajib mengikuti rangkaian tes sesuai <a href="<?= base_url(); ?>/jadwal">jadwal</a> yang telah ditentukan.</li>
-		<li>Calon mahasiswa yang dinyatakan lulus seleksi akan langsung diasramakan dan mengikuti pendidikan S1 TA. 2022/2023.</li>
+		<li>Calon mahasiswa yang dinyatakan lulus seleksi akan langsung diasramakan dan mengikuti pendidikan S1 TA. 2024/2025.</li>
 		<li>Calon mahasiswa wajib memahami semua pengumuman di <i>website</i> penerimaan mahasiswa baru.</li>
 		<li>Calon mahasiswa yang dinyatakan lulus sampai dengan tahap akhir wajib melakukan pendaftaran ulang dengan mengirim persyaratan administrasi dimasukan ke dalam <i>stopmap</i> plastik yang berisi sebagai berikut :
 			<ol type="a">

@@ -12,7 +12,7 @@
 			<ol>
 				<li>Warga Negara Indonesia (WNI)</li>
 				<li>Sehat jasmani dan rohani serta tidak buta warna.</li>
-				<li>Berijazah SMA/setingkat jurusan IPA dan SMK/Setingkat sesuai jurusan prodi yang dioperasionalkan dan lulusan tahun 2021 atau 2022</li>
+				<li>Berijazah SMA/setingkat jurusan IPA dan SMK/Setingkat sesuai jurusan prodi yang dioperasionalkan dan lulusan tahun 2021 atau 2024</li>
 				<li>Tidak pernah tinggal kelas selama di SMA/SMK/setingkat. Nilai rapor SMA/setingkat semester I s.d. V masing-masing semester nilai rata-rata 80, sedangkan untuk nilai rapor SMK/sederajat semester I s.d V sesuai struktur kurikulum SMK pusat keunggulan rata-rata 80, dan diprioritaskan bagi siswa yang masuk 10 (sepuluh) besar terbaik pada semester V</li>
 				<li>Memiliki <i>Intelligence Quotient </i>(IQ) minimal 120 (melampirkan bukti nilai hasil tes)</li>
 				<li>Usia maksimal 20 tahun saat masuk pendidikan</li>
@@ -26,7 +26,7 @@
 				<li>Daftar konversi nilai dan ijazah yang dilegalisir oleh Kemendikbud untuk sekolah SMA/SMK/setingkat luar negeri atau dinas pendidikan setempat bagi calon mahasiswa yang berasal dari SMA/SMK/setingkat yang berasal dari SMA/SMK/setingkat berlatar belakang <i>international school </i>di dalam negeri</li>
 				<li>Bersedia untuk tidak menikah dan tidak hamil selama mengikuti pendidikan</li>
 				<li>Tidak sedang menerima beasiswa lain dan tidak akan menerima beasiswa lain selama mengikuti pendidikan</li>
-				<li>Program studi pilihan/yang dipilih oleh calon peserta didik, apabila tidak terpenuhi maka wajib menerima program studi pilihan yang ditentukan oleh Unhan RI sesuai dengan kebutuhan</li>
+				<li>Program studi pilihan/yang dipilih oleh calon peserta didik, apabila tidak terpenuhi maka wajib menerima program studi pilihan yang ditentukan oleh ITS sesuai dengan kebutuhan</li>
 			</ol>
 		</div>
 		<!-- /.Persyaratan Umum -->

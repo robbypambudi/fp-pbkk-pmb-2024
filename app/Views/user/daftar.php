@@ -95,7 +95,7 @@
                                                 <li>Mendapat persetujuan orang tua/wali, bersedia tinggal di asrama dan sanggup mematuhi peraturan Universitas Pertahanan RI</li>
                                                 <li>Bersedia untuk tidak menikah dan tidak hamil selama mengikuti pendidikan.</li>
                                                 <li>Tidak sedang menerima beasiswa lain dan tidak akan menerima beasiswa lain selama mengikuti pendidikan.</li>
-                                                <li>Jika pilihan prodi ke-1 dan ke-2 tidak terpenuhi, maka bersedia dipindahkan ke prodi yang ditentukan oleh Unhan RI sesuai dengan kebutuhan</li>
+                                                <li>Jika pilihan prodi ke-1 dan ke-2 tidak terpenuhi, maka bersedia dipindahkan ke prodi yang ditentukan oleh ITS sesuai dengan kebutuhan</li>
                                                 <li>Setelah saya memutuskan untuk melanjutkan buat pendaftaran, maka saya tidak diperbolehkan lagi update data</li>
                                             </ol>
                                             <div class="form-check">

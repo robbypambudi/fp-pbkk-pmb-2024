@@ -86,7 +86,7 @@ class Forgotpassword extends BaseController
     {
         $this->email->setFrom('pmb.noreplay@tik.idu.ac.id');
         $this->email->setTo($this->request->getVar('email'));
-        $this->email->setSubject('PMB Unhan RI, Reset Password.');
+        $this->email->setSubject('PMB ITS, Reset Password.');
         $this->email->setMessage('Click this link to reset password your account : <a href="' . base_url() . '/resetpassword?email=' . htmlspecialchars($this->request->getVar('email')) . '&token=' . urlencode($token) . '">Reset Password</a>');
 
         if (!$this->email->send()) {

@@ -90,7 +90,7 @@ class Create extends BaseController
     {
         $this->email->setFrom('pmb.noreplay@tik.idu.ac.id');
         $this->email->setTo($this->request->getVar('email'));
-        $this->email->setSubject('PMB Unhan RI, Account activation.');
+        $this->email->setSubject('PMB ITS, Account activation.');
         $this->email->setMessage('Click this link to activate your account : <a href="' . base_url() . '/activation?email=' . htmlspecialchars($this->request->getVar('email')) . '&token=' . urlencode($token) . '">Activate</a>');
 
         if (!$this->email->send()) {

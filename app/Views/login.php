@@ -44,7 +44,7 @@
 		<!-- Right Side -->
 		<div class="col-6 mt-5">
 			<ul>
-				<li>Pastikan alamat aplikasi PMB Unhan RI benar di https://penerimaan.idu.ac.id</li>
+				<li>Pastikan alamat aplikasi PMB ITS benar di https://penerimaan.idu.ac.id</li>
 				<li>Jaga kerahasiaan email dan password anda.</li>
 				<li>Jika belum mempunyai akun silahkan membuat akun terlebih dahulu</li>
 			</ul>
