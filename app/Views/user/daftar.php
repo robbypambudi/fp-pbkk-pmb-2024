@@ -92,7 +92,7 @@
                                                 <li>Mampu mengoperasikan komputer (aplikasi internet dan office).</li>
                                                 <li>Bersedia ditempatkan di mana saja sebagai Kader Intelektual Bela Negara apabila sewaktu-waktu Negara membutuhkan.</li>
                                                 <li>Bersedia menandatangani surat perjanjian kontrak mahasiswa dan surat pernyataan.</li>
-                                                <li>Mendapat persetujuan orang tua/wali, bersedia tinggal di asrama dan sanggup mematuhi peraturan Universitas Pertahanan RI</li>
+                                                <li>Mendapat persetujuan orang tua/wali, bersedia tinggal di asrama dan sanggup mematuhi peraturan Institut Teknologi Sepuluh Nopember</li>
                                                 <li>Bersedia untuk tidak menikah dan tidak hamil selama mengikuti pendidikan.</li>
                                                 <li>Tidak sedang menerima beasiswa lain dan tidak akan menerima beasiswa lain selama mengikuti pendidikan.</li>
                                                 <li>Jika pilihan prodi ke-1 dan ke-2 tidak terpenuhi, maka bersedia dipindahkan ke prodi yang ditentukan oleh ITS sesuai dengan kebutuhan</li>
@@ -122,7 +122,7 @@
     <!-- Call to Action Well -->
     <div class="card text-white bg-secondary my-3 py-4 text-center">
         <div class="card-body">
-            <p class="text-white m-0">Bergabung di Universitas Pertahanan RI dan menjadi Kader Intelektual Bela Negara.</p>
+            <p class="text-white m-0">Bergabung di Institut Teknologi Sepuluh Nopember dan menjadi Kader Intelektual Bela Negara.</p>
         </div>
     </div>
 </div>

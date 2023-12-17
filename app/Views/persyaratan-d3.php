@@ -14,7 +14,7 @@
 			<hr>
 			<ol>
 				<li>Warga Negara Indonesia</li>
-				<li>Sanggup memenuhi segala peraturan dan ketentuan yang ditetapkan oleh Universitas Pertahanan RI</li>
+				<li>Sanggup memenuhi segala peraturan dan ketentuan yang ditetapkan oleh Institut Teknologi Sepuluh Nopember</li>
 				<li>Sehat jasmani dan rohani serta tidak buta warna</li>
 				<li>Berijazah SMA/setingkat jurusan IPA dan SMK/Setingkat sesuai jurusan prodi yang dioperasionalkan</li>
 				<li>Tidak pernah tinggal kelas selama di SMA/SMK/setingkat</li>

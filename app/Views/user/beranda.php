@@ -23,7 +23,7 @@
 					<li>Sekolah asal dan nilai</li>
 					<li>Dokumen administrasi</li>
 				</ol>
-				<p>Jika mengalami kendala saat melakukan pendaftaran silahkan hubungi Panitia PMB ITS atau email <span class="badge bg-info text-wrap">support.pmb@tik.idu.ac.id</span></p>
+				<p>Jika mengalami kendala saat melakukan pendaftaran silahkan hubungi Panitia PMB ITS atau email <span class="badge bg-info text-wrap">support@its.ac.id</span></p>
 			<?php else : ?>
 				<?php if (session()->getFlashdata('message')) {
 					echo session()->getFlashdata('message');
@@ -103,7 +103,7 @@
 	<!-- Call to Action Well -->
 	<div class="card text-white bg-secondary my-3 py-4 text-center">
 		<div class="card-body">
-			<p class="text-white m-0">Bergabung di Universitas Pertahanan RI dan menjadi Kader Intelektual Bela Negara.</p>
+			<p class="text-white m-0">Bergabung di Institut Teknologi Sepuluh Nopember dan menjadi Kader Intelektual Bela Negara.</p>
 		</div>
 	</div>
 </div>

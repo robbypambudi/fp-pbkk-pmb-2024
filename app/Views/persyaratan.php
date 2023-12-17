@@ -17,12 +17,12 @@
 				<li>Memiliki <i>Intelligence Quotient </i>(IQ) minimal 120 (melampirkan bukti nilai hasil tes)</li>
 				<li>Usia maksimal 20 tahun saat masuk pendidikan</li>
 				<li>Memiliki tinggi badan minimal laki-laki 160 Cm dan perempuan 155 Cm serta berat badan proporsional</li>
-				<li>Lulus seleksi administrasi, kesehatan, kesehatan jiwa, pemeriksaan psikologi, mental ideologi dan wawancara yang dilaksanakan oleh Universitas Pertahanan RI</li>
+				<li>Lulus seleksi administrasi, kesehatan, kesehatan jiwa, pemeriksaan psikologi, mental ideologi dan wawancara yang dilaksanakan oleh Institut Teknologi Sepuluh Nopember</li>
 				<li>Mampu mengoperasikan komputer (aplikasi <i>office</i> dan <i>internet</i>)</li>
 				<li>Bersedia ditempatkan di mana saja sebagai Komponen Cadangan dan Kader Intelektual Bela Negara apabila sewaktu-waktu negara membutuhkan</li>
 				<li>Bersedia menandatangani surat perjanjian kontrak belajar dan surat pernyataan kesanggupan mengembalikan biaya pendidikan bila mengundurkan diri</li>
 				<li>Bersedia menandatangani surat pernyataan sanggup menjadi TNI dan ikatan dinas minimal 10 tahun</li>
-				<li>Persetujuan orang tua/wali, bersedia tinggal di asrama dan sanggup mematuhi peraturan Universitas Pertahanan RI</li>
+				<li>Persetujuan orang tua/wali, bersedia tinggal di asrama dan sanggup mematuhi peraturan Institut Teknologi Sepuluh Nopember</li>
 				<li>Daftar konversi nilai dan ijazah yang dilegalisir oleh Kemendikbud untuk sekolah SMA/SMK/setingkat luar negeri atau dinas pendidikan setempat bagi calon mahasiswa yang berasal dari SMA/SMK/setingkat yang berasal dari SMA/SMK/setingkat berlatar belakang <i>international school </i>di dalam negeri</li>
 				<li>Bersedia untuk tidak menikah dan tidak hamil selama mengikuti pendidikan</li>
 				<li>Tidak sedang menerima beasiswa lain dan tidak akan menerima beasiswa lain selama mengikuti pendidikan</li>
@@ -80,7 +80,7 @@
 			<div class="alert alert-info">
 				<h5>SMK/Setingkat</h5>
 			</div>
-			<p>Nilai rapor semester V untuk pelajaran sesuai struktur kurikulum SMK pusat keunggulan, meliputi: Matematika, Kejuruan, Projek Kreatif dan Kewirausahaan, Praktik Kerja Lapangan Minimal 90. Persyaratan khusus SMK/Setingkat hanya berlaku untuk Fakultas Farmasi Militer dan Fakultas Teknik Militer.</p>
+			<p>Nilai rapor semester V untuk pelajaran sesuai struktur kurikulum SMK pusat keunggulan, meliputi: Matematika, Kejuruan, Projek Kreatif dan Kewirausahaan, Praktik Kerja Lapangan Minimal 90. Persyaratan khusus SMK/Setingkat hanya berlaku untuk Fakultas Farmasi dan Fakultas Teknik.</p>
 
 		</div>
 		<!-- /.Persyaratan Prodi -->

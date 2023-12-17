@@ -25,8 +25,8 @@
 	</div>
 
 	<!-- <div class="alert alert-info" role="alert">
-		<p>Daftar nama peserta lolos Tes Potensi Skolastik (TPS), <i>Test of English As A Foreign Language</i> (TOEFL) dan Pemeriksaan Psikologi Seleksi Penerimaan Mahasiswa Baru Program D-3 Fakultas Logistik Militer ITS TA. 2024/2025.</p>
-		<a class="btn btn-primary" href="http://cloud.idu.ac.id/index.php/s/aEQH9RN923pNFW8" target="_blank">Link</a>
+		<p>Daftar nama peserta lolos Tes Potensi Skolastik (TPS), <i>Test of English As A Foreign Language</i> (TOEFL) dan Pemeriksaan Psikologi Seleksi Penerimaan Mahasiswa Baru Program D-3 Fakultas Logistik ITS TA. 2024/2025.</p>
+		<a class="btn btn-primary" href="http://cloud.its.ac.id/index.php/s/aEQH9RN923pNFW8" target="_blank">Link</a>
 	</div> -->
 
 	<!-- <div class="alert alert-danger" role="alert">

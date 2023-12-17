@@ -84,13 +84,13 @@ class Forgotpassword extends BaseController
 
     private function _sendEmail($token)
     {
-        $this->email->setFrom('pmb.noreplay@tik.idu.ac.id');
+        $this->email->setFrom('fp.pbkk.a@gmail.com');
         $this->email->setTo($this->request->getVar('email'));
         $this->email->setSubject('PMB ITS, Reset Password.');
         $this->email->setMessage('Click this link to reset password your account : <a href="' . base_url() . '/resetpassword?email=' . htmlspecialchars($this->request->getVar('email')) . '&token=' . urlencode($token) . '">Reset Password</a>');
 
         if (!$this->email->send()) {
-            echo 'failed to send email. Please contact website administrator support@tik.idu.ac.id';
+            echo 'failed to send email. Please contact website administrator support@tits.ac.id';
             die;
         } else {
             return true;

@@ -88,13 +88,13 @@ class Create extends BaseController
 
     private function _sendEmail($token)
     {
-        $this->email->setFrom('pmb.noreplay@tik.idu.ac.id');
+        $this->email->setFrom('fp.pbkk.a@gmail.com');
         $this->email->setTo($this->request->getVar('email'));
         $this->email->setSubject('PMB ITS, Account activation.');
         $this->email->setMessage('Click this link to activate your account : <a href="' . base_url() . '/activation?email=' . htmlspecialchars($this->request->getVar('email')) . '&token=' . urlencode($token) . '">Activate</a>');
 
         if (!$this->email->send()) {
-            echo 'failed to send email. Please contact website administrator support@tik.idu.ac.id';
+            echo 'failed to send email. Please contact website administrator support@its.ac.id';
             die;
         } else {
             return true;

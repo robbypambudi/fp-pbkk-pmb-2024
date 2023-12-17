@@ -137,8 +137,8 @@ class Excelpendaftars extends BaseController
             $alamat_sekolah = $db->query("SELECT d.name AS kecamatan, r.name AS kabupaten, p.name AS provinsi FROM districts d, regencies r, provinces p WHERE d.regency_id = r.id AND r.province_id = p.id AND d.id = " . $dp['sekolah_kecamatan'] . "")->getRowArray();
             $keahlian = $db->query("SELECT kk.kompetensi_keahlian AS kompetensi, pk.program_keahlian AS program, bk.bidang_keahlian AS bidang FROM sekolah_kompetensi_keahlian kk, sekolah_program_keahlian pk, sekolah_bidang_keahlian bk WHERE kk.program_keahlian = pk.id AND pk.bidang_keahlian = bk.id AND kk.id = " . $dp['sekolah_kompetensi_keahlian'] . "")->getRowArray();
             $nilai = $db->query("SELECT * FROM akun_nilai WHERE akun = " . $dp['akun'] . " ORDER BY semester")->getResultArray();
-            $url = 'https://penerimaan.idu.ac.id/uploads/rapor/';
-            // $url = base_url('/uploads/rapor/');
+            // $url = 'https://penerimaan.idu.ac.id/uploads/rapor/';
+            $url = base_url('/uploads/rapor/');
             $t = '"';
             // dd($nilai);
             $prodi1 = $db->query("SELECT program_studi FROM program_studi WHERE id = " . $dp['prodi1'] . "")->getRowArray();

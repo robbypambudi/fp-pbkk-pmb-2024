@@ -55,7 +55,7 @@
     <!-- Call to Action Well -->
     <div class="card text-white bg-secondary my-3 py-4 text-center">
         <div class="card-body">
-            <p class="text-white m-0">Bergabung di Universitas Pertahanan RI dan menjadi Kader Intelektual Bela Negara.</p>
+            <p class="text-white m-0">Bergabung di Institut Teknologi Sepuluh Nopember dan menjadi Kader Intelektual Bela Negara.</p>
         </div>
     </div>
 </div>

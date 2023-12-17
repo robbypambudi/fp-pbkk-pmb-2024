@@ -36,7 +36,7 @@
 				<li>Surat keterangan kesehatan, surat keterangan bebas narkoba dan bebas tatto dari Rumah Sakit (RS) pemerintah.</li>
 				<li>Surat Keterangan Catatan Kepolisian (SKCK) asli dan foto copy.</li>
 				<li>Pasfoto berpakaian jas hitam berdasi ukuran 4x6 berwarna latar belakang warna putih sebanyak 4 lembar dan <i>softfile</i> dalam bentuk <i>f</i><i>lashdisk</i>.</li>
-				<li>Bagi calon mahasiswa yang diterima, bersedia menandatangani surat perjanjian penggantian biaya yang telah dikeluarkan oleh negara, apabila mahasiswa melakukan pelanggaran hukum dan atau pelanggaran peraturan Universitas Pertahanan yang berakibat dikeluarkannya ketetapan putus studi atau tidak dapat melanjutkan pendidikan serta dokumen lainnya.</li>
+				<li>Bagi calon mahasiswa yang diterima, bersedia menandatangani surat perjanjian penggantian biaya yang telah dikeluarkan oleh negara, apabila mahasiswa melakukan pelanggaran hukum dan atau pelanggaran peraturan Institut Teknologi Sepuluh Nopember yang berakibat dikeluarkannya ketetapan putus studi atau tidak dapat melanjutkan pendidikan serta dokumen lainnya.</li>
 			</ol>
 		</li>
 	</ol>

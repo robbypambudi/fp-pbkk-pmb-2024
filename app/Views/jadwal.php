@@ -25,7 +25,7 @@
 						<td>1</td>
 						<td>Pendaftaran online</td>
 						<td>14 Februari 2024 - 14 Maret 2024</td>
-						<td>https://penerimaan.idu.ac.id</td>
+						<td>https://sipmaba.its.ac.id</td>
 					</tr>
 					<tr>
 						<td>2</td>
